@@ -15,3 +15,7 @@ MAX4466 -> NodeMCU -> MQTT Broker -> Node-RED
 
 O NodeMCU realiza a leitura do sensor de áudio e publica os valores no tópico MQTT `sensor/ruido`.
 O Node-RED recebe os dados e exibe as informações em tempo real.
+
+
+# Link para vídeo demonstração:
+<https://youtu.be/r-oVzcYupNI>
