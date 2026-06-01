@@ -5,7 +5,6 @@ Projeto desenvolvido utilizando:
 - NodeMCU ESP8266
 - Microfone MAX4466
 - MQTT
-- Mosquitto
 - Node-RED
 
 ## Arquitetura
