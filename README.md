@@ -43,4 +43,4 @@ Resultados
 O sistema permite visualizar em tempo real a intensidade sonora captada pelo sensor, demonstrando a integração entre dispositivos IoT, comunicação MQTT em nuvem e ferramentas de monitoramento baseadas em Node-RED.
 
 # Link para vídeo demonstração:
-<https://youtu.be/r-oVzcYupNI>
+<https://www.youtube.com/watch?v=frZ8sYBZ5LY>
